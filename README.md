@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepshikha-5372a41a2/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png%3Fsize%3D1200x630f%26pad%3D10%2C10%2C10%2C10%26ext%3Dpng%26bg%3DFFFFFFFF&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&tbnid=hwDv5cit26165M&vet=12ahUKEwiPi-ycvJPuAhVWcisKHZWKDIMQMygBegUIARDNAQ..i&docid=vLBuaTBzrfpOUM&w=1200&h=630&q=linkedin%20logo&ved=2ahUKEwiPi-ycvJPuAhVWcisKHZWKDIMQMygBegUIARDNAQ" alt="https://www.linkedin.com/in/deepshikha-5372a41a2/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepshikha-5372a41a2/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png%3Fsize%3D1200x630f%26pad%3D10%2C10%2C10%2C10%26ext%3Dpng%26bg%3DFFFFFFFF&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&tbnid=hwDv5cit26165M&vet=12ahUKEwiPi-ycvJPuAhVWcisKHZWKDIMQMygBegUIARDNAQ..i&docid=vLBuaTBzrfpOUM&w=1200&h=630&q=linkedin%20logo&ved=2ahUKEwiPi-ycvJPuAhVWcisKHZWKDIMQMygBegUIARDNAQ"alt="https://www.linkedin.com/in/deepshikha-5372a41a2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
