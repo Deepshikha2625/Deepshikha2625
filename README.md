@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepshikha-5372a41a2/" target="blank"><img align="center" src=""https://findicons.com/files/icons/832/social_and_web/64/linked_in.png"alt="https://www.linkedin.com/in/deepshikha-5372a41a2/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepshikha-5372a41a2/" target="blank"><img align="center" src="https://findicons.com/files/icons/832/social_and_web/64/linked_in.png" alt="https://www.linkedin.com/in/deepshikha-5372a41a2/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
