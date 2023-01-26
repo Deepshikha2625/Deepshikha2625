@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Student.
+- 🔭 Software Developer
 - 🌱 I’m currently learning React JS.
 - 💬 Ask me about HTML5,CSS3,JAVASCRIPT or any Tech related stuff.
 - 😄 Pronouns: she/Her
