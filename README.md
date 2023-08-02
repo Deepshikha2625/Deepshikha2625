@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Software Developer
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning NEXT JS.
 - 💬 Ask me about HTML5,CSS3,JAVASCRIPT or any Tech related stuff.
 - 😄 Pronouns: she/Her
 
